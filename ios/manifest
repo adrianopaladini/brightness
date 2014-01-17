@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 1.0
+apiversion: 2
+description: -
+author: Adriano Paladini
+license: -
+copyright: 2013 Widbook
+
+
+# these should not be edited
+name: brightness
+moduleid: com.widbook.brightness
+guid: 0a311e93-3d22-4982-b537-a6803c5e4849
+platform: iphone
+minsdk: 3.1.0.GA
