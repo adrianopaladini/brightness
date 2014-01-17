@@ -22,17 +22,17 @@ Return a float value (0-1) of current system bright level
 
 Set a float value (0-1) to system bright level
 
-### getWindowBrightLevel
+### getWindowBrightLevel (Android only)
 
 Return a float value (0-1) of current window bright level
 
-### setWindowBrightLevel
+### setWindowBrightLevel (Android only)
 
 Set a float value (0-1) to window bright level
 
 ## Info
 
-To use "setSystemBrightLevel", your app need permission to write on system settings. To do this, edit your tiapp.xml and insert this:
+On Android, to use "setSystemBrightLevel", your app need permission to write on system settings. To do this, edit your tiapp.xml and insert this:
 
 	<android xmlns:android="http://schemas.android.com/apk/res/android">
 	    <manifest>
