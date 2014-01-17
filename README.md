@@ -4,6 +4,12 @@
 
 Module to control the bright of Android device.
 
+
+### Get the module
+
+**You can download the version already compiled through https://marketplace.appcelerator.com/apps/7532**
+
+
 ## Accessing the Brightness Module
 
 To access this module from JavaScript, you would do the following:
