@@ -1,0 +1,19 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 2.0
+apiversion: 3
+description: -
+author: Adriano Paladini
+license: -
+copyright: -
+
+
+# these should not be edited
+name: brightness
+moduleid: com.apaladini.brightness
+guid: 0a311e93-3d22-4982-b537-a6803c5e4831
+platform: iphone
+minsdk: 3.4.0.GA
+architectures: armv7 arm64 i386 x86_64
