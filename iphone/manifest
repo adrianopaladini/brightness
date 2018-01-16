@@ -3,8 +3,8 @@
 # during compilation, packaging, distribution, etc.
 #
 version: 2.1.0
-apiversion: 3
-architectures: armeabi-v7a x86
+apiversion: 2
+architectures: armv7 arm64 i386 x86_64
 description: brightness
 author: Your Name
 license: Specify your license
@@ -14,5 +14,5 @@ copyright: Copyright (c) 2018 by Your Company
 name: brightness
 moduleid: com.apaladini.brightness
 guid: 46e829f4-7631-4230-8690-994dcb089322
-platform: android
+platform: iphone
 minsdk: 6.3.0.GA
