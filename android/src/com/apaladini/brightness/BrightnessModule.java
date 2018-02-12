@@ -61,7 +61,7 @@ public class BrightnessModule extends KrollModule
 	public float getSystemBrightLevel()
 	{
 		try {
-			ContentResolver cR = getActivity().getContentResolver();
+			ContentResolver cR = TiApplication.getAppRootOrCurrentActivity().getContentResolver();
 			int bright = Settings.System.getInt(cR, Settings.System.SCREEN_BRIGHTNESS);
 			return bright/(float)255;
 		} catch (SettingNotFoundException e) {
