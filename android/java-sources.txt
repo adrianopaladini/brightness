@@ -1,8 +1,0 @@
-"/Users/YOURHOME/Projects/Mobile/brightness/android/src/com/apaladini/brightness/BrightnessModule.java"
-"/Users/YOURHOME/Projects/Mobile/brightness/android/build/generated/java/com/apaladini/brightness/BrightnessBootstrap.java"
-"/Users/YOURHOME/Projects/Mobile/brightness/android/build/generated/r/android/support/compat/R.java"
-"/Users/YOURHOME/Projects/Mobile/brightness/android/build/generated/r/android/support/design/R.java"
-"/Users/YOURHOME/Projects/Mobile/brightness/android/build/generated/r/android/support/v7/appcompat/R.java"
-"/Users/YOURHOME/Projects/Mobile/brightness/android/build/generated/r/android/support/v7/cardview/R.java"
-"/Users/YOURHOME/Projects/Mobile/brightness/android/build/generated/r/com/apaladini/brightness/R.java"
-"/Users/YOURHOME/Projects/Mobile/brightness/android/build/generated/r/ti/modules/titanium/ui/R.java"
