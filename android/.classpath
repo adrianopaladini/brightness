@@ -3,9 +3,9 @@
 	<classpathentry kind="src" path="android/src"/>
 	<classpathentry kind="src" path="android/build/.apt_generated"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
-	<classpathentry kind="lib" path="/Users/YOURHOME/Library/Android/sdk/platforms/android-25/android.jar"/>
-	<classpathentry kind="lib" path="/Users/YOURHOME/Library/Application Support/Titanium/mobilesdk/osx/6.3.0.GA/android/titanium.jar"/>
-	<classpathentry kind="lib" path="/Users/YOURHOME/Library/Application Support/Titanium/mobilesdk/osx/6.3.0.GA/android/kroll-common.jar"/>
-	<classpathentry kind="lib" path="/Users/YOURHOME/Library/Application Support/Titanium/mobilesdk/osx/6.3.0.GA/android/kroll-apt.jar"/>
+	<classpathentry kind="lib" path="/Users/YOURHOME/Library/Android/sdk/platforms/android-23/android.jar"/>
+	<classpathentry kind="lib" path="/Users/YOURHOME/Library/Application Support/Titanium/mobilesdk/osx/7.0.2.GA/android/titanium.jar"/>
+	<classpathentry kind="lib" path="/Users/YOURHOME/Library/Application Support/Titanium/mobilesdk/osx/7.0.2.GA/android/kroll-common.jar"/>
+	<classpathentry kind="lib" path="/Users/YOURHOME/Library/Application Support/Titanium/mobilesdk/osx/7.0.2.GA/android/kroll-apt.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
