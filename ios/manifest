@@ -2,7 +2,7 @@
 # this is your module manifest and used by Titanium
 # during compilation, packaging, distribution, etc.
 #
-version: 2.1.1
+version: 2.2.0
 apiversion: 2
 architectures: armv7 arm64 i386 x86_64
 description: brightness
@@ -13,6 +13,6 @@ copyright: Copyright (c) 2018 by Your Company
 # these should not be edited
 name: brightness
 moduleid: com.apaladini.brightness
-guid: 46e829f4-7631-4230-8690-994dcb089322
+guid: 5f7ba906-84c4-43c3-80c2-3ebcdff28234
 platform: iphone
-minsdk: 6.3.0.GA
+minsdk: 7.0.2.GA
